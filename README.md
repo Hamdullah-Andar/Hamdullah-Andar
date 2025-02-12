@@ -5,8 +5,10 @@ Welcome to my GitHub profile! I'm passionate about web development and enjoy cre
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** [Include any frameworks you're proficient in]
-- **Tools:** [List any tools you commonly use, e.g., Git, VSCode]
+- **Frontend Frameworks:** [React.js, Next.js, Material-UI (MUI), Tailwind CSS]
+- **Backend Frameworks:** [Node.js, Express.js, NestJS]
+- **Database & DevOps:** [MongoDB, PostgreSQL, Docker]
+- **Tools:** [Git, VSCode]
 
 ## 📌 Pinned Repositories
 
@@ -29,7 +31,7 @@ I'm currently expanding my knowledge in:
 
 Feel free to connect with me:
 
-- **Email:** [Your Email Address]
+- **Email:** [hamdullahandar786@gmail.com]
 - **LinkedIn:** [Your LinkedIn Profile]
 - **Twitter:** [Your Twitter Handle]
 

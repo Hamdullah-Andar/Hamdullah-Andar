@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Hamdullah Andar! 👋
 
-<!--
-**Hamdullah-Andar/Hamdullah-Andar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web development and enjoy creating projects that enhance user experiences.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** [Include any frameworks you're proficient in]
+- **Tools:** [List any tools you commonly use, e.g., Git, VSCode]
+
+## 📌 Pinned Repositories
+
+Here are some of my notable projects:
+
+- [**HamiPortfolio**](https://github.com/Hamdullah-Andar/HamiPortfolio): A personal portfolio website showcasing my projects and skills.
+- [**Personal-Site**](https://github.com/Hamdullah-Andar/Personal-Site): A personal website template built with HTML.
+- [**PetSite**](https://github.com/Hamdullah-Andar/PetSite): A website dedicated to pet lovers, providing information and resources.
+- [**DiceGame**](https://github.com/Hamdullah-Andar/DiceGame): A simple dice game implemented in JavaScript.
+
+## 🌱 Currently Learning
+
+I'm currently expanding my knowledge in:
+
+- Advanced JavaScript concepts
+- Front-end frameworks like React or Vue.js
+- Back-end development with Node.js
+
+## 📫 How to Reach Me
+
+Feel free to connect with me:
+
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Twitter:** [Your Twitter Handle]
+
+## 📈 GitHub Stats
+
+![Hamdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamdullah-Andar&show_icons=true&theme=radical)
+
+## 🤝 Contributions
+
+I'm open to collaborating on projects and contributing to open-source initiatives. Let's build something amazing together!
+
+---

@@ -32,7 +32,7 @@ I'm currently expanding my knowledge in:
 Feel free to connect with me:
 
 - **Email:** [hamdullahandar786@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
 - **Twitter:** [Your Twitter Handle]
 
 ## 📈 GitHub Stats

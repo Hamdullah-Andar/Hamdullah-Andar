@@ -33,7 +33,7 @@ Feel free to connect with me:
 
 - **Email:** [hamdullahandar786@gmail.com]
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/hamdullah-andar-98b35894/)
-- **Twitter:** [Your Twitter Handle]
+- **Twitter:** [@twitterhandle](https://twitter.com/HamdullahAndar)
 
 ## 📈 GitHub Stats
 

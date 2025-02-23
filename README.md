@@ -23,6 +23,8 @@
 ### Frontend Development
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![Next.js](https://icongr.am/devicon/nextjs-original.svg?size=50&color=currentColor)
+![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)
@@ -31,6 +33,8 @@
 ![Node.js](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
 ![Express.js](https://icongr.am/devicon/express-original.svg?size=50&color=currentColor)
 ![NestJS](https://icongr.am/devicon/nestjs-original.svg?size=50&color=currentColor)
+![Next.js](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+
 
 ### Database & DevOps
 ![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=currentColor)

@@ -23,8 +23,6 @@
 ### Frontend Development
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![Next.js](https://icongr.am/devicon/nextjs-original.svg?size=50&color=currentColor)
-![Logo](https://raw.githubusercontent.com/your-username/your-repo/main/logo.png)
-![Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png)
 
 
 
@@ -36,8 +34,6 @@
 ![Node.js](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
 ![Express.js](https://icongr.am/devicon/express-original.svg?size=50&color=currentColor)
 ![NestJS](https://icongr.am/devicon/nestjs-original.svg?size=50&color=currentColor)
-![Logo](https://raw.githubusercontent.com/your-username/your-repo/main/logo.png)
-![Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png)
 
 
 

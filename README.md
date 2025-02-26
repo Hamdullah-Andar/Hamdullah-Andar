@@ -22,9 +22,6 @@
 
 ### Frontend Development
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-
-
-
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)

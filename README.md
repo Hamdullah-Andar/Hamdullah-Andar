@@ -50,8 +50,6 @@ const hamdullahAndar = {
 }
 ```
 
----
-
 ## 📌 Pinned Repositories
 
 - [**HamiPortfolio**](https://github.com/Hamdullah-Andar/HamiPortfolio): A personal portfolio website showcasing my projects and skills.
